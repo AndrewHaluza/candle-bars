@@ -116,7 +116,7 @@ candle-bars/
    ```
 
 The application will be available at:
-- Frontend: `http://localhost:5173`
+- Frontend: `http://localhost:4173` or dev `http://localhost:5173`
 - Backend API: `http://localhost:3000`
 - API Documentation: `http://localhost:3000/api-docs`
 
